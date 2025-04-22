@@ -1,0 +1,11 @@
+Nội dung học phần .NET:
+ - Tổng quan .NET Core / ASP.NET Core MVC
+ - Routing, Controller
+ - Làm việc với view / lazer Core
+ - Làm việc mới Model
+ - Validation, annotation
+ - Truy cập dữ liệu với Entity Framework
+ - Layout
+ - Session, Cookies
+ - Authentication / Authorization
+ - Web API
