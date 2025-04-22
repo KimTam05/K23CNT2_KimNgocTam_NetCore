@@ -1,0 +1,2 @@
+# K23CNT2_KimNgocTam_NetCore
+K23CNT2_KimNgocTam_NetCore
