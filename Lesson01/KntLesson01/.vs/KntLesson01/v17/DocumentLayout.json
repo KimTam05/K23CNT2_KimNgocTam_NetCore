@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\K23CNT2_KimNgocTam_NetCore\\Lesson01\\KntLesson01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE6906-A7F4-41A5-9CA5-EEC7BC03A93A}|..\\KntLesson01MVC\\KntLesson01MVC.csproj|d:\\projects\\k23cnt2_kimngoctam_netcore\\lesson01\\kntlesson01mvc\\views\\kntitem\\kntitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE6906-A7F4-41A5-9CA5-EEC7BC03A93A}|..\\KntLesson01MVC\\KntLesson01MVC.csproj|d:\\projects\\k23cnt2_kimngoctam_netcore\\lesson01\\kntlesson01mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE6906-A7F4-41A5-9CA5-EEC7BC03A93A}|..\\KntLesson01MVC\\KntLesson01MVC.csproj|d:\\projects\\k23cnt2_kimngoctam_netcore\\lesson01\\kntlesson01mvc\\views\\knthome\\kntindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\K23CNT2_KimNgocTam_NetCore\\Lesson01\\KntLesson01MVC\\Program.cs",
+              "RelativeDocumentMoniker": "..\\KntLesson01MVC\\Program.cs",
+              "ToolTip": "D:\\Projects\\K23CNT2_KimNgocTam_NetCore\\Lesson01\\KntLesson01MVC\\Program.cs",
+              "RelativeToolTip": "..\\KntLesson01MVC\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T14:04:56.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KntItem.cshtml",
+              "DocumentMoniker": "D:\\Projects\\K23CNT2_KimNgocTam_NetCore\\Lesson01\\KntLesson01MVC\\Views\\KntItem\\KntItem.cshtml",
+              "RelativeDocumentMoniker": "..\\KntLesson01MVC\\Views\\KntItem\\KntItem.cshtml",
+              "ToolTip": "D:\\Projects\\K23CNT2_KimNgocTam_NetCore\\Lesson01\\KntLesson01MVC\\Views\\KntItem\\KntItem.cshtml",
+              "RelativeToolTip": "..\\KntLesson01MVC\\Views\\KntItem\\KntItem.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T14:03:48.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KntIndex.cshtml",
+              "DocumentMoniker": "D:\\Projects\\K23CNT2_KimNgocTam_NetCore\\Lesson01\\KntLesson01MVC\\Views\\KntHome\\KntIndex.cshtml",
+              "RelativeDocumentMoniker": "..\\KntLesson01MVC\\Views\\KntHome\\KntIndex.cshtml",
+              "ToolTip": "D:\\Projects\\K23CNT2_KimNgocTam_NetCore\\Lesson01\\KntLesson01MVC\\Views\\KntHome\\KntIndex.cshtml",
+              "RelativeToolTip": "..\\KntLesson01MVC\\Views\\KntHome\\KntIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T13:48:27.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
