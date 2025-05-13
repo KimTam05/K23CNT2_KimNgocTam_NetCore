@@ -1,0 +1,55 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model IEnumerable<Lesson04.Models.Book>
+@{
+	ViewData["Title"] = "Danh sách sách";
+}
+
+<h1>Danh sách</h1>
+
+<form asp-action="" method="post" class="form-inline" role="form">
+    <div class="form-group d-flex gap-3 mb-3">
+        <select name="AuthorID" class="form-control" asp-items="ViewBag.Authors">
+            <option value="">-Chọn tác giả-</option>
+        </select>
+        <select name="GenreID" class="form-control" asp-items="ViewBag.Genres">
+            <option value="">-Chọn thể loại-</option>
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Tìm kiếm</button>
+    <a asp-action="KntCreate" class="btn btn-danger">Thêm mới</a>
+</form>
+<hr />
+
+<table class="table table-bordered mt-3">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Tiêu đề</th>
+            <th>Tác giả</th>
+            <th>Thể loại</th>
+            <th>Giá</th>
+            <th>Ảnh</th>
+            <th>Thao tác</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model)
+        {
+            <tr>
+                <td>@book.Id</td>
+                <td>@book.Title</td>
+                <td>@book.AuthorID</td>
+                <td>@book.GenreID</td>
+                <td>@book.Price.ToString("C")</td>
+                <td>
+                    <img src="@Url.Content(book.Image)" alt="Book Image" style="width: 100px; height: 150px;" />
+                </td>
+                <td>
+                    <a asp-action="KntEdit" asp-route-id="@book.Id" class="btn btn-primary">Edit</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

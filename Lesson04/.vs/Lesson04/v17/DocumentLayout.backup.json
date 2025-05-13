@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\Lesson04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECE010C-ACD1-4B40-952B-2EF108B9380B}|Lesson04.csproj|d:\\lesson-and-project\\k23cnt2_kimngoctam_netcore\\lesson04\\views\\kntbook\\kntedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7ECE010C-ACD1-4B40-952B-2EF108B9380B}|Lesson04.csproj|solutionrelative:views\\kntbook\\kntedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECE010C-ACD1-4B40-952B-2EF108B9380B}|Lesson04.csproj|d:\\lesson-and-project\\k23cnt2_kimngoctam_netcore\\lesson04\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECE010C-ACD1-4B40-952B-2EF108B9380B}|Lesson04.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECE010C-ACD1-4B40-952B-2EF108B9380B}|Lesson04.csproj|d:\\lesson-and-project\\k23cnt2_kimngoctam_netcore\\lesson04\\controllers\\kntbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECE010C-ACD1-4B40-952B-2EF108B9380B}|Lesson04.csproj|solutionrelative:controllers\\kntbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECE010C-ACD1-4B40-952B-2EF108B9380B}|Lesson04.csproj|d:\\lesson-and-project\\k23cnt2_kimngoctam_netcore\\lesson04\\views\\kntbook\\kntindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7ECE010C-ACD1-4B40-952B-2EF108B9380B}|Lesson04.csproj|solutionrelative:views\\kntbook\\kntindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECE010C-ACD1-4B40-952B-2EF108B9380B}|Lesson04.csproj|d:\\lesson-and-project\\k23cnt2_kimngoctam_netcore\\lesson04\\views\\kntbook\\kntcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7ECE010C-ACD1-4B40-952B-2EF108B9380B}|Lesson04.csproj|solutionrelative:views\\kntbook\\kntcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KntEdit.cshtml",
+              "DocumentMoniker": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\Lesson04\\Views\\KntBook\\KntEdit.cshtml",
+              "RelativeDocumentMoniker": "Views\\KntBook\\KntEdit.cshtml",
+              "ToolTip": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\Lesson04\\Views\\KntBook\\KntEdit.cshtml*",
+              "RelativeToolTip": "Views\\KntBook\\KntEdit.cshtml*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T03:52:09.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KntCreate.cshtml",
+              "DocumentMoniker": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\Lesson04\\Views\\KntBook\\KntCreate.cshtml",
+              "RelativeDocumentMoniker": "Views\\KntBook\\KntCreate.cshtml",
+              "ToolTip": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\Lesson04\\Views\\KntBook\\KntCreate.cshtml",
+              "RelativeToolTip": "Views\\KntBook\\KntCreate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T03:03:23.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\Lesson04\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\Lesson04\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwEEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T02:51:34.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KntIndex.cshtml",
+              "DocumentMoniker": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\Lesson04\\Views\\KntBook\\KntIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\KntBook\\KntIndex.cshtml",
+              "ToolTip": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\Lesson04\\Views\\KntBook\\KntIndex.cshtml",
+              "RelativeToolTip": "Views\\KntBook\\KntIndex.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T02:33:49.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KntBookController.cs",
+              "DocumentMoniker": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\Lesson04\\Controllers\\KntBookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\KntBookController.cs",
+              "ToolTip": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\Lesson04\\Controllers\\KntBookController.cs",
+              "RelativeToolTip": "Controllers\\KntBookController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwBkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T02:30:02.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

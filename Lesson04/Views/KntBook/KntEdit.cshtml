@@ -1,0 +1,45 @@
+﻿@model Lesson04.Models.Book
+@{
+	ViewData["Title"] = "Sửa sách";
+}
+
+<h1>Sửa sách</h1>
+<form asp-action="KntEdit" method="post" enctype="multipart/form-data">
+	<input type="hidden" asp-for="Id" />
+	<div class="form-group">
+		<label asp-for="Title"></label>
+		<input asp-for="Title" class="form-control" />
+		<span asp-validation-for="Title" class="text-danger"></span>
+	</div>
+	<div class="form-group">
+		<label asp-for="AuthorID"></label>
+		<select asp-for="AuthorID" class="form-control" asp-items="@ViewBag.Authors"></select>
+		<span asp-validation-for="AuthorID" class="text-danger"></span>
+	</div>
+	<div class="form-group">
+		<label asp-for="GenreID"></label>
+		<select asp-for="GenreID" class="form-control" asp-items="@ViewBag.Genres"></select>
+		<span asp-validation-for="GenreID" class="text-danger"></span>
+	</div>
+	<div class="form-group">
+		<label asp-for="Price"></label>
+		<input asp-for="Price" class="form-control" />
+		<span asp-validation-for="Price" class="text-danger"></span>
+	</div>
+	<div class="form-group">
+		<label asp-for="TotalPages"></label>
+		<input asp-for="TotalPages" class="form-control" />
+		<span asp-validation-for="TotalPages" class="text-danger"></span>
+	</div>
+	<div class="form-group">
+		<label asp-for="Sumary"></label>
+		<textarea asp-for="Sumary" class="form-control"></textarea>
+		<span asp-validation-for="Sumary" class="text-danger"></span>
+	<div class="form-group my-3">
+		<input type="file" name="Image" class="form-control"/>
+		<span asp-validation-for="Image" class="text-danger"></span>
+	</div>
+	<div class="form-group">
+		<input type="submit" value="Lưu" class="btn btn-primary" />
+	</div>
+</form>

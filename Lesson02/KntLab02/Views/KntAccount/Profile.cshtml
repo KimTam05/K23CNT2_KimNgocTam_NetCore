@@ -1,0 +1,33 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+	ViewData["Title"] = "Profile";
+	var account = ViewBag.account;
+}
+
+<h2>Your Profile</h2>
+<div class="row">
+	<div class="col-md-4">
+		<img src="@account.KntAvatar" style="width: 100%", alt="Avatar"/>
+	</div>
+	<div class="col-md-8">
+		<h2>Full Name: @account.KntName</h2>
+		<h3>Email: @account.KntEmail</h3>
+		<h3>Phone: @account.KntPhone</h3>
+		<h3>Address: @account.KntAddress</h3>
+		<h3>Bio: @account.KntBio</h3>
+		<h3>Gender:
+			@if (account.KntGender == 1)
+			{
+				<span>Male</span>
+			}
+			else
+			{
+				<span>Female</span>
+			}
+		</h3>
+		<h3>Birthday: @account.KntBirthday.ToString("dd/MM/yyyy")</h3>
+		<p><a asp-controller="KntAccount" asp-action="Index" class="btn btn-sm btn-danger">Back to list</a></p>
+	</div>
+</div>

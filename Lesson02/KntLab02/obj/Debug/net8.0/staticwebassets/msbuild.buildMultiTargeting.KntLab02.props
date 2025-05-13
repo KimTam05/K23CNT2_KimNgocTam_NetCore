@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\KntLab02.props" />
+</Project>
