@@ -1,0 +1,82 @@
+﻿@model IEnumerable<KntEmployee>
+@{
+    ViewData["Title"] = "Danh sách nhân viên";
+    var kntList = ViewBag.KntList as List<KntEmployee>;
+}
+<style>
+    th, td {
+        white-space: nowrap;
+        vertical-align: middle;
+    }
+
+        th.small-col, td.small-col {
+            width: 80px;
+            text-align: center;
+        }
+</style>
+
+<div class="d-flex align-items-center">
+    <h1 class="me-3">@ViewData["Title"]</h1>  <!-- me-3: margin-end -->
+    <div class="ms-auto">
+        <a href="@Url.Action("KntCreate", "KntListEmployee")" class="btn btn-success">
+            <i class="fa-solid fa-plus"></i> Thêm mới
+        </a>
+    </div>
+</div>
+
+@if (kntList != null)
+{
+    <table class="table table-bordered">
+        <thead class="table-dark">
+            <tr>
+                <th>#</th>
+                <th>Họ và tên</th>
+                <th>Điện thoại</th>
+                <th>Lương</th>
+                <th style="width: 80px; text-align: center;">Hoạt động?</th>
+                <th class="text-center">Chức năng</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var employee in kntList)
+            {
+                <tr>
+                    <td>@employee.KntId</td>
+                    <td>@employee.KntName</td>
+                    <td>@employee.KntPhone</td>
+                    <td>@employee.KntSalary.ToString("N0") ₫</td>
+                    <td style="width: 80px; text-align: center;">@(employee.KntIsActive ? "✔️" : "❌")</td>
+                    <td class="text-center">
+                        <a href="@Url.Action("KntEdit", "KntListEmployee", new { id = employee.KntId })" class="btn btn-outline-primary">
+                            <i class="fa-solid fa-pen-to-square"></i>
+                        </a>
+                        <a href="@Url.Action("KntDelete", "KntListEmployee", new { id = employee.KntId })" class="btn btn-outline-danger">
+                            <i class="fa-solid fa-trash"></i>
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+}
+else
+{
+    <table class="table table-bordered">
+        <thead class="table-dark">
+            <tr>
+                <th>#</th>
+                <th>Họ và tên</th>
+                <th>Điện thoại</th>
+                <th>Lương</th>
+                <th>Hoạt động?</th>
+                <th>Chức năng</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td colspan="6" class="text-center">Không có dữ liệu.</td>
+            </tr>
+        </tbody>
+    </table>
+}

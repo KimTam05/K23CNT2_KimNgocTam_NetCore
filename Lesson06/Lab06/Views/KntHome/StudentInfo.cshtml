@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Thông tin sinh viên";
+}
+<h1>@ViewData["Title"]</h1>
+
+<div class="card">
+    <div class="card-body">
+        <h5 class="card-title">Dưới đây là thông tin cá nhân của sinh viên.</h5>
+        <p class="card-text">Họ và tên: Kim Ngọc Tâm</p>
+        <p class="card-text">MSSV: 2310900094</p>
+        <p class="card-text">Lớp: K23CNT2</p>
+        <p class="card-text">Github: <a href="https://github.com/KimTam05" class="card-link">KimTam05</a></p>
+        <a href="#" class="card-link">Buy me a coffee 🍵</a>
+        <a href="@Url.Action("Index", "KntHome")" class="card-link">Quay lại</a>
+    </div>
+</div>
