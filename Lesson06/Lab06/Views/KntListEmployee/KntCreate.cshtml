@@ -15,6 +15,18 @@
     </div>
 
     <div class="form-group mb-3">
+        <label asp-for="KntBirthday" class="control-label">Ngày sinh</label>
+        <input asp-for="KntBirthday" class="form-control" type="date" />
+        <span asp-validation-for="KntBirthday" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mb-3">
+        <label asp-for="KntEmail" class="control-label">Email</label>
+        <input asp-for="KntEmail" class="form-control" />
+        <span asp-validation-for="KntName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mb-3">
         <label asp-for="KntPhone" class="control-label">Số điện thoại</label>
         <input asp-for="KntPhone" class="form-control" />
         <span asp-validation-for="KntPhone" class="text-danger"></span>

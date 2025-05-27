@@ -16,6 +16,19 @@
         <span asp-validation-for="KntName" class="text-danger"></span>
     </div>
 
+    <div class="mb-3">
+        <label asp-for="KntBirthday" class="form-label"></label>
+        <input asp-for="KntBirthday" class="form-control" type="date" />
+        <span asp-validation-for="KntBirthday" class="text-danger"></span>
+    </div>
+
+
+    <div class="form-group mb-3">
+        <label asp-for="KntEmail" class="control-label">Email</label>
+        <input asp-for="KntEmail" class="form-control" />
+        <span asp-validation-for="KntEmail" class="text-danger"></span>
+    </div>
+
     <div class="form-group">
         <label asp-for="KntPhone" class="control-label"></label>
         <input asp-for="KntPhone" class="form-control" />

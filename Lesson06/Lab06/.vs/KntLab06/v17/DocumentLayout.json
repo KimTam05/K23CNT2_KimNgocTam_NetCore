@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\Lesson06\\Lab06\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3AD38CF-4C6C-4617-BF39-EFCD518C55C4}|Lab06.csproj|d:\\lesson-and-project\\k23cnt2_kimngoctam_netcore\\lesson06\\lab06\\controllers\\kntlistemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3AD38CF-4C6C-4617-BF39-EFCD518C55C4}|Lab06.csproj|solutionrelative:controllers\\kntlistemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B3AD38CF-4C6C-4617-BF39-EFCD518C55C4}|Lab06.csproj|d:\\lesson-and-project\\k23cnt2_kimngoctam_netcore\\lesson06\\lab06\\views\\kntlistemployee\\kntedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B3AD38CF-4C6C-4617-BF39-EFCD518C55C4}|Lab06.csproj|solutionrelative:views\\kntlistemployee\\kntedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3AD38CF-4C6C-4617-BF39-EFCD518C55C4}|Lab06.csproj|d:\\lesson-and-project\\k23cnt2_kimngoctam_netcore\\lesson06\\lab06\\controllers\\kntlistemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3AD38CF-4C6C-4617-BF39-EFCD518C55C4}|Lab06.csproj|solutionrelative:controllers\\kntlistemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3AD38CF-4C6C-4617-BF39-EFCD518C55C4}|Lab06.csproj|d:\\lesson-and-project\\k23cnt2_kimngoctam_netcore\\lesson06\\lab06\\views\\kntlistemployee\\kntdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B3AD38CF-4C6C-4617-BF39-EFCD518C55C4}|Lab06.csproj|solutionrelative:views\\kntlistemployee\\kntdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3AD38CF-4C6C-4617-BF39-EFCD518C55C4}|Lab06.csproj|d:\\lesson-and-project\\k23cnt2_kimngoctam_netcore\\lesson06\\lab06\\views\\kntlistemployee\\kntcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3AD38CF-4C6C-4617-BF39-EFCD518C55C4}|Lab06.csproj|solutionrelative:views\\kntlistemployee\\kntcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B3AD38CF-4C6C-4617-BF39-EFCD518C55C4}|Lab06.csproj|d:\\lesson-and-project\\k23cnt2_kimngoctam_netcore\\lesson06\\lab06\\controllers\\knthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3AD38CF-4C6C-4617-BF39-EFCD518C55C4}|Lab06.csproj|solutionrelative:controllers\\knthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3AD38CF-4C6C-4617-BF39-EFCD518C55C4}|Lab06.csproj|d:\\lesson-and-project\\k23cnt2_kimngoctam_netcore\\lesson06\\lab06\\views\\kntlistemployee\\kntindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B3AD38CF-4C6C-4617-BF39-EFCD518C55C4}|Lab06.csproj|solutionrelative:views\\kntlistemployee\\kntindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3AD38CF-4C6C-4617-BF39-EFCD518C55C4}|Lab06.csproj|d:\\lesson-and-project\\k23cnt2_kimngoctam_netcore\\lesson06\\lab06\\models\\kntemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3AD38CF-4C6C-4617-BF39-EFCD518C55C4}|Lab06.csproj|solutionrelative:models\\kntemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B3AD38CF-4C6C-4617-BF39-EFCD518C55C4}|Lab06.csproj|d:\\lesson-and-project\\k23cnt2_kimngoctam_netcore\\lesson06\\lab06\\views\\kntlistemployee\\kntcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3AD38CF-4C6C-4617-BF39-EFCD518C55C4}|Lab06.csproj|solutionrelative:views\\kntlistemployee\\kntcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,39 +38,52 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KntHomeController.cs",
+              "DocumentMoniker": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\Lesson06\\Lab06\\Controllers\\KntHomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\KntHomeController.cs",
+              "ToolTip": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\Lesson06\\Lab06\\Controllers\\KntHomeController.cs",
+              "RelativeToolTip": "Controllers\\KntHomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T03:15:41.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "KntDelete.cshtml",
               "DocumentMoniker": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\Lesson06\\Lab06\\Views\\KntListEmployee\\KntDelete.cshtml",
               "RelativeDocumentMoniker": "Views\\KntListEmployee\\KntDelete.cshtml",
               "ToolTip": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\Lesson06\\Lab06\\Views\\KntListEmployee\\KntDelete.cshtml",
               "RelativeToolTip": "Views\\KntListEmployee\\KntDelete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-27T02:38:24.071Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "KntEdit.cshtml",
               "DocumentMoniker": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\Lesson06\\Lab06\\Views\\KntListEmployee\\KntEdit.cshtml",
               "RelativeDocumentMoniker": "Views\\KntListEmployee\\KntEdit.cshtml",
               "ToolTip": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\Lesson06\\Lab06\\Views\\KntListEmployee\\KntEdit.cshtml",
               "RelativeToolTip": "Views\\KntListEmployee\\KntEdit.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-27T02:27:54.39Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "KntListEmployeeController.cs",
               "DocumentMoniker": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\Lesson06\\Lab06\\Controllers\\KntListEmployeeController.cs",
               "RelativeDocumentMoniker": "Controllers\\KntListEmployeeController.cs",
               "ToolTip": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\Lesson06\\Lab06\\Controllers\\KntListEmployeeController.cs",
               "RelativeToolTip": "Controllers\\KntListEmployeeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAswFgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T02:19:09.59Z",
               "EditorCaption": ""
@@ -83,7 +96,7 @@
               "RelativeDocumentMoniker": "Views\\KntListEmployee\\KntIndex.cshtml",
               "ToolTip": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\Lesson06\\Lab06\\Views\\KntListEmployee\\KntIndex.cshtml",
               "RelativeToolTip": "Views\\KntListEmployee\\KntIndex.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADQAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAACIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-27T02:16:02.203Z",
               "EditorCaption": ""
@@ -91,25 +104,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "KntEmployee.cs",
-              "DocumentMoniker": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\Lesson06\\Lab06\\Models\\KntEmployee.cs",
-              "RelativeDocumentMoniker": "Models\\KntEmployee.cs",
-              "ToolTip": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\Lesson06\\Lab06\\Models\\KntEmployee.cs",
-              "RelativeToolTip": "Models\\KntEmployee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T02:12:42.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "KntCreate.cshtml",
               "DocumentMoniker": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\Lesson06\\Lab06\\Views\\KntListEmployee\\KntCreate.cshtml",
               "RelativeDocumentMoniker": "Views\\KntListEmployee\\KntCreate.cshtml",
               "ToolTip": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\Lesson06\\Lab06\\Views\\KntListEmployee\\KntCreate.cshtml",
               "RelativeToolTip": "Views\\KntListEmployee\\KntCreate.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBIAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-27T02:12:14.386Z",
               "EditorCaption": ""
