@@ -1,0 +1,59 @@
+﻿@model EmployeeInformation___Lesson07.Models.KntEmployee
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="KntEdit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <input type="hidden" asp-for="KntId" />
+            </div>
+            <div class="form-group">
+                <label asp-for="KntName" class="control-label">Name</label>
+                <input asp-for="KntName" class="form-control" />
+                <span asp-validation-for="KntName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="KntBirthday" class="control-label">Birthday</label>
+                <input asp-for="KntBirthday" class="form-control" type="date" />
+                <span asp-validation-for="KntBirthday" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="KntEmail" class="control-label">Email</label>
+                <input asp-for="KntEmail" class="form-control" />
+                <span asp-validation-for="KntEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="KntPhone" class="control-label">Phone</label>
+                <input asp-for="KntPhone" class="form-control" />
+                <span asp-validation-for="KntPhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="KntSalary" class="control-label">Salary</label>
+                <input asp-for="KntSalary" class="form-control" />
+                <span asp-validation-for="KntSalary" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="KntIsActive" /> @Html.DisplayNameFor(model => model.KntIsActive)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="KntIndex">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

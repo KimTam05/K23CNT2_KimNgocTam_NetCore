@@ -1,0 +1,71 @@
+﻿@model IEnumerable<EmployeeInformation___Lesson07.Models.KntEmployee>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Danh sách nhân viên</h1>
+
+<p>
+    <a asp-action="KntCreate">Tạo mới</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                ID
+            </th>
+            <th>
+                Name
+            </th>
+            <th>
+                Birthday
+            </th>
+            <th>
+                Email
+            </th>
+            <th>
+                Phone
+            </th>
+            <th>
+                Salary
+            </th>
+            <th>
+                IsActive?
+            </th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.KntId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.KntName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.KntBirthday)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.KntEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.KntPhone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.KntSalary)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.KntIsActive)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "KntEdit", new { id = item.KntId }) |
+                @Html.ActionLink("Details", "KntDetails", new { id = item.KntId }) |
+                @Html.ActionLink("Delete", "KntDelete", new { id = item.KntId })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

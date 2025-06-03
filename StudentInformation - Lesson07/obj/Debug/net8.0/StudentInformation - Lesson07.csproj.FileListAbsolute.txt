@@ -1,0 +1,30 @@
+D:\Lesson-and-Project\K23CNT2_KimNgocTam_NetCore\StudentInformation - Lesson07\bin\Debug\net8.0\appsettings.Development.json
+D:\Lesson-and-Project\K23CNT2_KimNgocTam_NetCore\StudentInformation - Lesson07\bin\Debug\net8.0\appsettings.json
+D:\Lesson-and-Project\K23CNT2_KimNgocTam_NetCore\StudentInformation - Lesson07\bin\Debug\net8.0\StudentInformation - Lesson07.staticwebassets.runtime.json
+D:\Lesson-and-Project\K23CNT2_KimNgocTam_NetCore\StudentInformation - Lesson07\bin\Debug\net8.0\StudentInformation - Lesson07.staticwebassets.endpoints.json
+D:\Lesson-and-Project\K23CNT2_KimNgocTam_NetCore\StudentInformation - Lesson07\bin\Debug\net8.0\StudentInformation - Lesson07.exe
+D:\Lesson-and-Project\K23CNT2_KimNgocTam_NetCore\StudentInformation - Lesson07\bin\Debug\net8.0\StudentInformation - Lesson07.deps.json
+D:\Lesson-and-Project\K23CNT2_KimNgocTam_NetCore\StudentInformation - Lesson07\bin\Debug\net8.0\StudentInformation - Lesson07.runtimeconfig.json
+D:\Lesson-and-Project\K23CNT2_KimNgocTam_NetCore\StudentInformation - Lesson07\bin\Debug\net8.0\StudentInformation - Lesson07.dll
+D:\Lesson-and-Project\K23CNT2_KimNgocTam_NetCore\StudentInformation - Lesson07\bin\Debug\net8.0\StudentInformation - Lesson07.pdb
+D:\Lesson-and-Project\K23CNT2_KimNgocTam_NetCore\StudentInformation - Lesson07\obj\Debug\net8.0\StudentInformation - Lesson07.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lesson-and-Project\K23CNT2_KimNgocTam_NetCore\StudentInformation - Lesson07\obj\Debug\net8.0\StudentInformation - Lesson07.AssemblyInfoInputs.cache
+D:\Lesson-and-Project\K23CNT2_KimNgocTam_NetCore\StudentInformation - Lesson07\obj\Debug\net8.0\StudentInformation - Lesson07.AssemblyInfo.cs
+D:\Lesson-and-Project\K23CNT2_KimNgocTam_NetCore\StudentInformation - Lesson07\obj\Debug\net8.0\StudentInformation - Lesson07.csproj.CoreCompileInputs.cache
+D:\Lesson-and-Project\K23CNT2_KimNgocTam_NetCore\StudentInformation - Lesson07\obj\Debug\net8.0\StudentInformation - Lesson07.MvcApplicationPartsAssemblyInfo.cache
+D:\Lesson-and-Project\K23CNT2_KimNgocTam_NetCore\StudentInformation - Lesson07\obj\Debug\net8.0\StudentInformation - Lesson07.RazorAssemblyInfo.cache
+D:\Lesson-and-Project\K23CNT2_KimNgocTam_NetCore\StudentInformation - Lesson07\obj\Debug\net8.0\StudentInformation - Lesson07.RazorAssemblyInfo.cs
+D:\Lesson-and-Project\K23CNT2_KimNgocTam_NetCore\StudentInformation - Lesson07\obj\Debug\net8.0\StudentInformation - Lesson07.sourcelink.json
+D:\Lesson-and-Project\K23CNT2_KimNgocTam_NetCore\StudentInformation - Lesson07\obj\Debug\net8.0\scopedcss\Views\Shared\_KntLayout.cshtml.rz.scp.css
+D:\Lesson-and-Project\K23CNT2_KimNgocTam_NetCore\StudentInformation - Lesson07\obj\Debug\net8.0\scopedcss\bundle\StudentInformation - Lesson07.styles.css
+D:\Lesson-and-Project\K23CNT2_KimNgocTam_NetCore\StudentInformation - Lesson07\obj\Debug\net8.0\scopedcss\projectbundle\StudentInformation - Lesson07.bundle.scp.css
+D:\Lesson-and-Project\K23CNT2_KimNgocTam_NetCore\StudentInformation - Lesson07\obj\Debug\net8.0\staticwebassets.build.json
+D:\Lesson-and-Project\K23CNT2_KimNgocTam_NetCore\StudentInformation - Lesson07\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Lesson-and-Project\K23CNT2_KimNgocTam_NetCore\StudentInformation - Lesson07\obj\Debug\net8.0\staticwebassets.development.json
+D:\Lesson-and-Project\K23CNT2_KimNgocTam_NetCore\StudentInformation - Lesson07\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Lesson-and-Project\K23CNT2_KimNgocTam_NetCore\StudentInformation - Lesson07\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Lesson-and-Project\K23CNT2_KimNgocTam_NetCore\StudentInformation - Lesson07\obj\Debug\net8.0\StudentInformation - Lesson07.dll
+D:\Lesson-and-Project\K23CNT2_KimNgocTam_NetCore\StudentInformation - Lesson07\obj\Debug\net8.0\refint\StudentInformation - Lesson07.dll
+D:\Lesson-and-Project\K23CNT2_KimNgocTam_NetCore\StudentInformation - Lesson07\obj\Debug\net8.0\StudentInformation - Lesson07.pdb
+D:\Lesson-and-Project\K23CNT2_KimNgocTam_NetCore\StudentInformation - Lesson07\obj\Debug\net8.0\StudentInformation - Lesson07.genruntimeconfig.cache
+D:\Lesson-and-Project\K23CNT2_KimNgocTam_NetCore\StudentInformation - Lesson07\obj\Debug\net8.0\ref\StudentInformation - Lesson07.dll

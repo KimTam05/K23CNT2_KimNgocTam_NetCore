@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\StudentInformation - Lesson07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C469DA29-B8BD-4940-A125-6EA7243A0D10}|EmployeeInformation - Lesson07.csproj|d:\\lesson-and-project\\k23cnt2_kimngoctam_netcore\\studentinformation - lesson07\\views\\kntemployee\\kntindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C469DA29-B8BD-4940-A125-6EA7243A0D10}|EmployeeInformation - Lesson07.csproj|solutionrelative:views\\kntemployee\\kntindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C469DA29-B8BD-4940-A125-6EA7243A0D10}|EmployeeInformation - Lesson07.csproj|d:\\lesson-and-project\\k23cnt2_kimngoctam_netcore\\studentinformation - lesson07\\views\\kntemployee\\kntedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C469DA29-B8BD-4940-A125-6EA7243A0D10}|EmployeeInformation - Lesson07.csproj|solutionrelative:views\\kntemployee\\kntedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C469DA29-B8BD-4940-A125-6EA7243A0D10}|EmployeeInformation - Lesson07.csproj|d:\\lesson-and-project\\k23cnt2_kimngoctam_netcore\\studentinformation - lesson07\\views\\kntemployee\\kntdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C469DA29-B8BD-4940-A125-6EA7243A0D10}|EmployeeInformation - Lesson07.csproj|solutionrelative:views\\kntemployee\\kntdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C469DA29-B8BD-4940-A125-6EA7243A0D10}|EmployeeInformation - Lesson07.csproj|d:\\lesson-and-project\\k23cnt2_kimngoctam_netcore\\studentinformation - lesson07\\views\\kntemployee\\kntcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C469DA29-B8BD-4940-A125-6EA7243A0D10}|EmployeeInformation - Lesson07.csproj|solutionrelative:views\\kntemployee\\kntcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C469DA29-B8BD-4940-A125-6EA7243A0D10}|EmployeeInformation - Lesson07.csproj|d:\\lesson-and-project\\k23cnt2_kimngoctam_netcore\\studentinformation - lesson07\\controllers\\kntemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C469DA29-B8BD-4940-A125-6EA7243A0D10}|EmployeeInformation - Lesson07.csproj|solutionrelative:controllers\\kntemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C469DA29-B8BD-4940-A125-6EA7243A0D10}|StudentInformation - Lesson07.csproj|d:\\lesson-and-project\\k23cnt2_kimngoctam_netcore\\studentinformation - lesson07\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C469DA29-B8BD-4940-A125-6EA7243A0D10}|StudentInformation - Lesson07.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C469DA29-B8BD-4940-A125-6EA7243A0D10}|StudentInformation - Lesson07.csproj|d:\\lesson-and-project\\k23cnt2_kimngoctam_netcore\\studentinformation - lesson07\\views\\shared\\_kntlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C469DA29-B8BD-4940-A125-6EA7243A0D10}|StudentInformation - Lesson07.csproj|solutionrelative:views\\shared\\_kntlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C469DA29-B8BD-4940-A125-6EA7243A0D10}|StudentInformation - Lesson07.csproj|d:\\lesson-and-project\\k23cnt2_kimngoctam_netcore\\studentinformation - lesson07\\controllers\\knthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C469DA29-B8BD-4940-A125-6EA7243A0D10}|StudentInformation - Lesson07.csproj|solutionrelative:controllers\\knthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C469DA29-B8BD-4940-A125-6EA7243A0D10}|StudentInformation - Lesson07.csproj|d:\\lesson-and-project\\k23cnt2_kimngoctam_netcore\\studentinformation - lesson07\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C469DA29-B8BD-4940-A125-6EA7243A0D10}|StudentInformation - Lesson07.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KntCreate.cshtml",
+              "DocumentMoniker": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\StudentInformation - Lesson07\\Views\\KntEmployee\\KntCreate.cshtml",
+              "RelativeDocumentMoniker": "Views\\KntEmployee\\KntCreate.cshtml",
+              "ToolTip": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\StudentInformation - Lesson07\\Views\\KntEmployee\\KntCreate.cshtml*",
+              "RelativeToolTip": "Views\\KntEmployee\\KntCreate.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T02:37:16.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KntDetails.cshtml",
+              "DocumentMoniker": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\StudentInformation - Lesson07\\Views\\KntEmployee\\KntDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\KntEmployee\\KntDetails.cshtml",
+              "ToolTip": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\StudentInformation - Lesson07\\Views\\KntEmployee\\KntDetails.cshtml*",
+              "RelativeToolTip": "Views\\KntEmployee\\KntDetails.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T02:29:41.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KntIndex.cshtml",
+              "DocumentMoniker": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\StudentInformation - Lesson07\\Views\\KntEmployee\\KntIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\KntEmployee\\KntIndex.cshtml",
+              "ToolTip": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\StudentInformation - Lesson07\\Views\\KntEmployee\\KntIndex.cshtml",
+              "RelativeToolTip": "Views\\KntEmployee\\KntIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T02:12:02.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KntEdit.cshtml",
+              "DocumentMoniker": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\StudentInformation - Lesson07\\Views\\KntEmployee\\KntEdit.cshtml",
+              "RelativeDocumentMoniker": "Views\\KntEmployee\\KntEdit.cshtml",
+              "ToolTip": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\StudentInformation - Lesson07\\Views\\KntEmployee\\KntEdit.cshtml",
+              "RelativeToolTip": "Views\\KntEmployee\\KntEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T02:08:58.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KntEmployeeController.cs",
+              "DocumentMoniker": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\StudentInformation - Lesson07\\Controllers\\KntEmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\KntEmployeeController.cs",
+              "ToolTip": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\StudentInformation - Lesson07\\Controllers\\KntEmployeeController.cs",
+              "RelativeToolTip": "Controllers\\KntEmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T01:44:11.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KntHomeController.cs",
+              "DocumentMoniker": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\StudentInformation - Lesson07\\Controllers\\KntHomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\KntHomeController.cs",
+              "ToolTip": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\StudentInformation - Lesson07\\Controllers\\KntHomeController.cs",
+              "RelativeToolTip": "Controllers\\KntHomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T01:31:04.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_KntLayout.cshtml",
+              "DocumentMoniker": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\StudentInformation - Lesson07\\Views\\Shared\\_KntLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_KntLayout.cshtml",
+              "ToolTip": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\StudentInformation - Lesson07\\Views\\Shared\\_KntLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_KntLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T01:29:29.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\StudentInformation - Lesson07\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\StudentInformation - Lesson07\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T01:29:10.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\StudentInformation - Lesson07\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\StudentInformation - Lesson07\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T01:29:09.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

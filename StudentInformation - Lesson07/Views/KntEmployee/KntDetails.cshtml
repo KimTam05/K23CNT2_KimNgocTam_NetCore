@@ -1,0 +1,58 @@
+﻿@model EmployeeInformation___Lesson07.Models.KntEmployee
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div>
+    <h4>Thông tin</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            ID
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.KntId)
+        </dd>
+        <dt class = "col-sm-2">
+            Name
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.KntName)
+        </dd>
+        <dt class = "col-sm-2">
+            Birthday
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.KntBirthday)
+        </dd>
+        <dt class = "col-sm-2">
+            Email
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.KntEmail)
+        </dd>
+        <dt class = "col-sm-2">
+            Phone
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.KntPhone)
+        </dd>
+        <dt class = "col-sm-2">
+            Salary
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.KntSalary)
+        </dd>
+        <dt class = "col-sm-2">
+            IsActive?
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.KntIsActive)
+        </dd>
+    </dl>
+</div>
+<div>
+    @Html.ActionLink("Edit", "KntEdit", new { id = Model.KntId }) |
+    <a asp-action="KntIndex">Back to List</a>
+</div>
