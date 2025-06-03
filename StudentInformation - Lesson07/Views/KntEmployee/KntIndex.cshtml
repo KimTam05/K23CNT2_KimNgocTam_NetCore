@@ -1,16 +1,28 @@
 ﻿@model IEnumerable<EmployeeInformation___Lesson07.Models.KntEmployee>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Danh sach";
 }
+<style>
+    th, td {
+        white-space: nowrap;
+        vertical-align: middle;
+    }
 
-<h1>Danh sách nhân viên</h1>
+        th.small-col, td.small-col {
+            width: 80px;
+            text-align: center;
+        }
+</style>
 
-<p>
-    <a asp-action="KntCreate">Tạo mới</a>
-</p>
-<table class="table">
-    <thead>
+<div class="d-flex align-items-center">
+    <h1 class="me-3">@ViewData["Title"]</h1>
+    <div class="ms-auto">
+        <a asp-action="KntCreate" class="align-items-end">Tạo mới</a>
+    </div>
+</div>
+<table class="table table-bordered">
+    <thead class="table-dark">
         <tr>
             <th>
                 ID
