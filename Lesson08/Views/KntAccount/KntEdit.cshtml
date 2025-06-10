@@ -1,6 +1,7 @@
 ﻿@model Lesson08.Models.KntAccount
 
 @{
+    ViewBag.Genders = new List<string> { "Nam", "Nữ" };
     ViewData["Title"] = "Edit";
 }
 
@@ -48,9 +49,12 @@
             </div>
             <div class="form-group">
                 <label asp-for="KntGender" class="control-label"></label>
-                <input asp-for="KntGender" class="form-control" />
+                <select asp-for="KntGender" class="form-select" asp-items="new SelectList(ViewBag.Genders)">
+                    <option value="">-- Chọn giới tính --</option>
+                </select>
                 <span asp-validation-for="KntGender" class="text-danger"></span>
             </div>
+
             <div class="form-group">
                 <label asp-for="KntPassword" class="control-label"></label>
                 <input asp-for="KntPassword" class="form-control" />

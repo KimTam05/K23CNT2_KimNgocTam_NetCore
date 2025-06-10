@@ -92,6 +92,7 @@ namespace Lesson08.Controllers
                     KntGender = collection["KntGender"],
                     KntPassword = collection["KntPassword"]
                 };
+                accounts.Add(newAccount);
                 return RedirectToAction(nameof(KntIndex));
             }
             catch
