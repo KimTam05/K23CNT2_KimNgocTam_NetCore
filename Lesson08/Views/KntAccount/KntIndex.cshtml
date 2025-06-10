@@ -1,0 +1,96 @@
+﻿@model IEnumerable<Lesson08.Models.KntAccount>
+
+@{
+    ViewData["Title"] = "Danh sách tài khoản";
+}
+
+<style>
+    th {
+        white-space: nowrap;
+    }
+</style>
+
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <h2 class="mb-0">@ViewData["Title"]</h2>
+    <a class="btn btn-success" asp-action="Create">Thêm mới</a>
+</div>
+<table class="table table-bordered">
+    <thead>
+        <tr class="table-dark">
+            <th>
+                @Html.DisplayNameFor(model => model.KntId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.KntFullName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.KntEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.KntPhone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.KntAddress)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.KntAvatar)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.KntBirthday)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.KntGender)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.KntPassword)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.KntFacebook)
+            </th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.KntId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.KntFullName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.KntEmail)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.KntPhone)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.KntAddress)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.KntAvatar)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.KntBirthday)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.KntGender)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.KntPassword)
+                </td>
+                <td>
+                    <a href="@item.KntFacebook">@item.KntFullName</a>
+                </td>
+                <td>
+                    <a asp-action="KntEdit" asp-route-id="@item.KntId" class="btn btn-info">Detail</a>
+                    <a asp-action="KntEdit" asp-route-id="@item.KntId" class="btn btn-outline-primary">Edit</a>
+                    <a asp-action="KntEdit" asp-route-id="@item.KntId" class="btn btn-outline-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

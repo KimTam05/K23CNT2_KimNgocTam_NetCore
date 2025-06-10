@@ -1,0 +1,75 @@
+﻿@model Lesson08.Models.KntAccount
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+
+<h2>Create Account</h2>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <input type="hidden" value="2"></input>
+            </div>
+            <div class="form-group">
+                <label asp-for="KntFullName" class="control-label"></label>
+                <input asp-for="KntFullName" class="form-control" />
+                <span asp-validation-for="KntFullName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="KntEmail" class="control-label"></label>
+                <input asp-for="KntEmail" class="form-control" />
+                <span asp-validation-for="KntEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="KntPhone" class="control-label"></label>
+                <input asp-for="KntPhone" class="form-control" />
+                <span asp-validation-for="KntPhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="KntAddress" class="control-label"></label>
+                <input asp-for="KntAddress" class="form-control" />
+                <span asp-validation-for="KntAddress" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="KntAvatar" class="control-label"></label>
+                <input asp-for="KntAvatar" class="form-control" />
+                <span asp-validation-for="KntAvatar" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="KntBirthday" class="control-label"></label>
+                <input asp-for="KntBirthday" class="form-control" />
+                <span asp-validation-for="KntBirthday" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="KntGender" class="control-label"></label>
+                <input asp-for="KntGender" class="form-control" />
+                <span asp-validation-for="KntGender" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="KntPassword" class="control-label"></label>
+                <input asp-for="KntPassword" class="form-control" />
+                <span asp-validation-for="KntPassword" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="KntFacebook" class="control-label"></label>
+                <input asp-for="KntFacebook" class="form-control" />
+                <span asp-validation-for="KntFacebook" class="text-danger"></span>
+            </div>
+            <div class="form-group my-3">
+                <input type="submit" value="KntCreate" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a class="btn btn-outline-secondary" asp-action="KntIndex">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
