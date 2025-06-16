@@ -82,8 +82,7 @@
               "RelativeToolTip": "Views\\KntAccount\\KntDelete.cshtml",
               "ViewState": "AgIAADkAAAAAAAAAAAAAAE0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-10T02:44:39.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T02:44:39.863Z"
             },
             {
               "$type": "Document",
@@ -93,7 +92,7 @@
               "RelativeDocumentMoniker": "Views\\KntAccount\\KntEdit.cshtml",
               "ToolTip": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\Lesson08\\Views\\KntAccount\\KntEdit.cshtml",
               "RelativeToolTip": "Views\\KntAccount\\KntEdit.cshtml",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAADUAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-10T02:42:59.908Z",
               "EditorCaption": ""
@@ -108,8 +107,7 @@
               "RelativeToolTip": "Views\\KntAccount\\KntCreate.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-10T02:38:42.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T02:38:42.564Z"
             },
             {
               "$type": "Document",
@@ -133,8 +131,7 @@
               "RelativeToolTip": "Views\\KntAccount\\KntIndex.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-10T02:17:52.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T02:17:52.135Z"
             },
             {
               "$type": "Document",
@@ -158,8 +155,7 @@
               "RelativeToolTip": "Controllers\\KntAccountController.cs",
               "ViewState": "AgIAAFIAAAAAAAAAAAAcwFUAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T01:55:00.743Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T01:55:00.743Z"
             }
           ]
         }

@@ -1,0 +1,77 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Lesson09
+build_property.RootNamespace = Lesson09
+build_property.ProjectDir = D:\Lesson-and-Project\K23CNT2_KimNgocTam_NetCore\Lesson09\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Lesson-and-Project\K23CNT2_KimNgocTam_NetCore\Lesson09
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/Lesson-and-Project/K23CNT2_KimNgocTam_NetCore/Lesson09/Views/KntCategories/KntCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS250Q2F0ZWdvcmllc1xLbnRDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lesson-and-Project/K23CNT2_KimNgocTam_NetCore/Lesson09/Views/KntCategories/KntDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS250Q2F0ZWdvcmllc1xLbnREZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lesson-and-Project/K23CNT2_KimNgocTam_NetCore/Lesson09/Views/KntCategories/KntDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS250Q2F0ZWdvcmllc1xLbnREZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lesson-and-Project/K23CNT2_KimNgocTam_NetCore/Lesson09/Views/KntCategories/KntEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS250Q2F0ZWdvcmllc1xLbnRFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lesson-and-Project/K23CNT2_KimNgocTam_NetCore/Lesson09/Views/KntCategories/KntIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS250Q2F0ZWdvcmllc1xLbnRJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lesson-and-Project/K23CNT2_KimNgocTam_NetCore/Lesson09/Views/KntHome/KntAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS250SG9tZVxLbnRBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lesson-and-Project/K23CNT2_KimNgocTam_NetCore/Lesson09/Views/KntHome/KntIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS250SG9tZVxLbnRJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lesson-and-Project/K23CNT2_KimNgocTam_NetCore/Lesson09/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lesson-and-Project/K23CNT2_KimNgocTam_NetCore/Lesson09/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lesson-and-Project/K23CNT2_KimNgocTam_NetCore/Lesson09/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lesson-and-Project/K23CNT2_KimNgocTam_NetCore/Lesson09/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lesson-and-Project/K23CNT2_KimNgocTam_NetCore/Lesson09/Views/Shared/_KntLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9LbnRMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-h2oveu3qot
