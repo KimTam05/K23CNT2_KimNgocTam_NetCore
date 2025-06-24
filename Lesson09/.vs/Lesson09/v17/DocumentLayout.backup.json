@@ -15,10 +15,6 @@
       "RelativeMoniker": "D:0:0:{09A7A240-1947-4F20-A808-97E0B317E186}|Lesson09.csproj|solutionrelative:views\\kntcategories\\kntcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09A7A240-1947-4F20-A808-97E0B317E186}|Lesson09.csproj|d:\\lesson-and-project\\k23cnt2_kimngoctam_netcore\\lesson09\\views\\kntcategories\\kntedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{09A7A240-1947-4F20-A808-97E0B317E186}|Lesson09.csproj|solutionrelative:views\\kntcategories\\kntedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{09A7A240-1947-4F20-A808-97E0B317E186}|Lesson09.csproj|d:\\lesson-and-project\\k23cnt2_kimngoctam_netcore\\lesson09\\views\\kntcategories\\kntindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{09A7A240-1947-4F20-A808-97E0B317E186}|Lesson09.csproj|solutionrelative:views\\kntcategories\\kntindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -62,24 +58,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "KntEdit.cshtml",
-              "DocumentMoniker": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\Lesson09\\Views\\KntCategories\\KntEdit.cshtml",
-              "RelativeDocumentMoniker": "Views\\KntCategories\\KntEdit.cshtml",
-              "ToolTip": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\Lesson09\\Views\\KntCategories\\KntEdit.cshtml",
-              "RelativeToolTip": "Views\\KntCategories\\KntEdit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-16T03:51:20.785Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "KntDetails.cshtml",
               "DocumentMoniker": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\Lesson09\\Views\\KntCategories\\KntDetails.cshtml",
               "RelativeDocumentMoniker": "Views\\KntCategories\\KntDetails.cshtml",
@@ -87,8 +70,7 @@
               "RelativeToolTip": "Views\\KntCategories\\KntDetails.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-16T03:51:15.603Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T03:51:15.603Z"
             },
             {
               "$type": "Document",
@@ -100,8 +82,7 @@
               "RelativeToolTip": "Views\\KntCategories\\KntDelete.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-16T03:51:09.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T03:51:09.291Z"
             },
             {
               "$type": "Document",
@@ -113,12 +94,11 @@
               "RelativeToolTip": "Views\\KntCategories\\KntCreate.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-16T03:50:51.697Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T03:50:51.697Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "KntIndex.cshtml",
               "DocumentMoniker": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\Lesson09\\Views\\KntCategories\\KntIndex.cshtml",
               "RelativeDocumentMoniker": "Views\\KntCategories\\KntIndex.cshtml",
@@ -126,8 +106,7 @@
               "RelativeToolTip": "Views\\KntCategories\\KntIndex.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-16T03:42:44.186Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T03:42:44.186Z"
             },
             {
               "$type": "Document",
@@ -137,14 +116,14 @@
               "RelativeDocumentMoniker": "Controllers\\KntCategoriesController.cs",
               "ToolTip": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\Lesson09\\Controllers\\KntCategoriesController.cs",
               "RelativeToolTip": "Controllers\\KntCategoriesController.cs",
-              "ViewState": "AgIAAHoAAAAAAAAAAAASwIYAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAIAAAAAAAAAAAAASwI4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-16T03:37:21.546Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\Lesson09\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -152,12 +131,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-16T03:15:26.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T03:15:26.723Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "BookstoreContext.cs",
               "DocumentMoniker": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\Lesson09\\Models\\BookstoreContext.cs",
               "RelativeDocumentMoniker": "Models\\BookstoreContext.cs",
@@ -165,12 +143,11 @@
               "RelativeToolTip": "Models\\BookstoreContext.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAA5wB0AAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T02:59:51.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T02:59:51.999Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "KntAbout.cshtml",
               "DocumentMoniker": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\Lesson09\\Views\\KntHome\\KntAbout.cshtml",
               "RelativeDocumentMoniker": "Views\\KntHome\\KntAbout.cshtml",
@@ -178,12 +155,11 @@
               "RelativeToolTip": "Views\\KntHome\\KntAbout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-16T01:41:01.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T01:41:01.169Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "_KntLayout.cshtml",
               "DocumentMoniker": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\Lesson09\\Views\\Shared\\_KntLayout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_KntLayout.cshtml",
@@ -191,12 +167,11 @@
               "RelativeToolTip": "Views\\Shared\\_KntLayout.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-16T01:29:02.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T01:29:02.678Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "KntHomeController.cs",
               "DocumentMoniker": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\Lesson09\\Controllers\\KntHomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\KntHomeController.cs",
@@ -204,12 +179,11 @@
               "RelativeToolTip": "Controllers\\KntHomeController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T01:28:58.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T01:28:58.971Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\Lesson09\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
@@ -217,12 +191,11 @@
               "RelativeToolTip": "Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-16T01:28:42.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T01:28:42.172Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Lesson-and-Project\\K23CNT2_KimNgocTam_NetCore\\Lesson09\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -230,8 +203,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T01:28:24.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T01:28:24.059Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

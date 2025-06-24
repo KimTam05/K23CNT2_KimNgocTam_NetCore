@@ -282,3 +282,7 @@ D:\Lesson-and-Project\K23CNT2_KimNgocTam_NetCore\Lesson09\bin\Debug\net8.0\runti
 D:\Lesson-and-Project\K23CNT2_KimNgocTam_NetCore\Lesson09\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 D:\Lesson-and-Project\K23CNT2_KimNgocTam_NetCore\Lesson09\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 D:\Lesson-and-Project\K23CNT2_KimNgocTam_NetCore\Lesson09\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Lesson-and-Project\K23CNT2_KimNgocTam_NetCore\Lesson09\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Lesson-and-Project\K23CNT2_KimNgocTam_NetCore\Lesson09\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Lesson-and-Project\K23CNT2_KimNgocTam_NetCore\Lesson09\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Lesson-and-Project\K23CNT2_KimNgocTam_NetCore\Lesson09\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
