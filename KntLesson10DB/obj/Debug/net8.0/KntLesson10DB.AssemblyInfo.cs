@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KntLesson10DB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f021437ff7c9e36fbf57db586550d22c5f4fa53f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+251d7d72b7bc90b38df36562d54870afe8c5c97e")]
 [assembly: System.Reflection.AssemblyProductAttribute("KntLesson10DB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KntLesson10DB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
