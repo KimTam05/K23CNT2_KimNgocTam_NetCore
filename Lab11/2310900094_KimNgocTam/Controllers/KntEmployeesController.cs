@@ -21,7 +21,8 @@ namespace _2310900094_KimNgocTam.Controllers
         // GET: KntEmployees
         public async Task<IActionResult> KntIndex()
         {
-            return View(await _context.KntEmployees.ToListAsync());
+            var employees = await _context.KntEmployees.ToListAsync();
+            return View(employees);
         }
 
         // GET: KntEmployees/Details/5

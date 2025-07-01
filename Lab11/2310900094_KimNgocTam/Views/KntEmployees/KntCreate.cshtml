@@ -30,14 +30,18 @@
                 <input type="date" name="KntEmpStartDate" class="form-control"/>
                 <span asp-validation-for="KntEmpStartDate" class="text-danger"></span>
             </div>
-            <div class="form-group form-check">
-                <label class="form-check-label">
-                    Status
+            <div class="form-group">
+                <label>
+                    Status: 
                 </label>
-                <input class="form-check-input" asp-for="KntEmpStatus" />
+                <select asp-for="KntEmpStatus" name="KntEmpStatus" class="form-select">
+                    <option value="" disabled default>--Select an option--</option>
+                    <option value="true">Show</option>
+                    <option value="false">Hide</option>
+                </select>
                 <span asp-validation-for="KntEmpStatus" class="text-danger"></span>
             </div>
-            <div class="form-group">
+            <div class="form-group mt-3">
                 <input type="submit" value="Create" class="btn btn-primary" />
                 <a asp-action="KntIndex" class="btn btn-outline-secondary">Back to List</a>
             </div>
