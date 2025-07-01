@@ -1,0 +1,50 @@
+﻿@model _2310900094_KimNgocTam.Models.KntEmployee
+
+@{
+    ViewData["Title"] = "Add Employee";
+}
+
+<h4>Add An Employee</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="KntCreate">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label>ID: </label>
+                <input asp-for="KntEmpId" class="form-control" />
+                <span asp-validation-for="KntEmpId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label>Name: </label>
+                <input asp-for="KntEmpName" class="form-control" />
+                <span asp-validation-for="KntEmpName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label>Level: </label>
+                <input asp-for="KntEmpLevel" class="form-control" />
+                <span asp-validation-for="KntEmpLevel" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label>Start Date: </label>
+                <input type="date" name="KntEmpStartDate" class="form-control"/>
+                <span asp-validation-for="KntEmpStartDate" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    Status
+                </label>
+                <input class="form-check-input" asp-for="KntEmpStatus" />
+                <span asp-validation-for="KntEmpStatus" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+                <a asp-action="KntIndex" class="btn btn-outline-secondary">Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

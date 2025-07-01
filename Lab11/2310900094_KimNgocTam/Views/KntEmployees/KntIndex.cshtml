@@ -1,0 +1,57 @@
+﻿@model IEnumerable<_2310900094_KimNgocTam.Models.KntEmployee>
+
+@{
+    ViewData["Title"] = "Employee List";
+}
+
+<div class="row align-items-center">
+    <h2 class="col-sm-6">Employee</h2>
+    <p class="col-sm-6">
+        <a asp-action="KntCreate" class="float-end btn btn-success align-items-center">Create New</a>
+    </p>
+</div>
+<hr/>
+<table class="table table-bordered">
+    <thead class="table-dark">
+        <tr>
+            <th>
+                Name
+            </th>
+            <th>
+                Level
+            </th>
+            <th>
+                Start Date
+            </th>
+            <th>
+                Status
+            </th>
+            <th>
+                Actions
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.KntEmpName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.KntEmpLevel)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.KntEmpStartDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.KntEmpStatus)
+            </td>
+            <td>
+                <a asp-action="KntEdit" asp-route-id="@item.KntEmpId" class="btn btn-outline-primary"><i class="fa-solid fa-pen-to-square"></i></a>
+                <a asp-action="KntDetails" asp-route-id="@item.KntEmpId" class="btn btn-outline-warning"><i class="fa-solid fa-circle-info"></i></a>
+                <a asp-action="KntDelete" asp-route-id="@item.KntEmpId" class="btn btn-outline-danger"><i class="fa-solid fa-trash"></i></a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
